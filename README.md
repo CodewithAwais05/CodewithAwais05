@@ -60,9 +60,9 @@ A personal portfolio showcasing my projects, skills, and learning journey.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=CodewithAwais05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=CodewithAwais05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
 
-![](https://streak-stats.demolab.com/?user=CodewithAwais05&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=CodewithAwais05&theme=tokyonight&hide_border=true&mode=daily)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodewithAwais05&theme=tokyonight&hide_border=true&layout=compact)
 
@@ -70,7 +70,7 @@ A personal portfolio showcasing my projects, skills, and learning journey.
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=CodewithAwais05&theme=tokyonight&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=CodewithAwais05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)
 
 ---
 
