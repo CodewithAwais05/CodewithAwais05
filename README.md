@@ -24,7 +24,7 @@ I work with **NumPy, Pandas, Matplotlib, and Scikit-learn** to clean data, explo
 
 # 🚀 Featured Projects
 
-### 🏠 House Price Prediction *(in progress)*
+### 🏠 Machine Failure Prediction System *(in progress)*
 A machine learning model that predicts house prices from a housing dataset. Covers data cleaning, exploratory analysis, model training, and evaluation using **Pandas, NumPy, Matplotlib, and Scikit-learn**.
 
 ### 🧠 AI Sentiment Analyzer
