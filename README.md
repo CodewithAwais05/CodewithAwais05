@@ -14,7 +14,7 @@ I work with **NumPy, Pandas, Matplotlib, and Scikit-learn** to clean data, explo
 
 # 🌱 Currently Learning & Building
 
-- 🏠 **House Price Prediction**: an ML regression project (Pandas, NumPy, Scikit-learn) *(in progress)*
+- 🏠 **Machine Failure Prediction System**: an ML regression project (Pandas, NumPy, Scikit-learn) *(in progress)*
 - 🐍 Python for Artificial Intelligence
 - 🤖 Machine Learning workflow: data cleaning → EDA → model training → evaluation
 - 📚 Data Structures & Algorithms (C++)
